@@ -39,5 +39,3 @@
 │
 ├── docker-compose.yml           # Opcional: contenerización
 └── README.md
-
-
